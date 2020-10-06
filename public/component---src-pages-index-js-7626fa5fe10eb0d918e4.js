@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(n,e,t){"use strict";t.r(e),t.d(e,"default",(function(){return u}));var o=t("q1tI"),r=t.n(o);function u(){return r.a.createElement("div",null,"Hello world from a BitBucket Repo!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-7626fa5fe10eb0d918e4.js.map
