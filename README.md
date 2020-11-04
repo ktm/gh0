@@ -1,9 +1,10 @@
 # gh0
 
-<form>
-<input type="text" name="test"></input>
+<form action="/action_page.php" id="form1">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="submit" value="Submit">
 </form>
-<button name="button" onclick="http://www.google.com">Click me</button>
 
 
 Lorem ipsum dolor sit amet.
